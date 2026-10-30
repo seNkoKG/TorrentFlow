@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **TorrentFlow has moved to [github.com/senkecKG/TorrentFlow](https://github.com/senkecKG/TorrentFlow).** Get the latest version from its [releases](https://github.com/senkecKG/TorrentFlow/releases/latest). This repository is archived and no longer updated.
+
 <div align="center">
 
 <img src="docs/assets/logo.svg" width="72" alt="TorrentFlow logo" />
